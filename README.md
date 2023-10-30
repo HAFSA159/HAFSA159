@@ -5,4 +5,4 @@
 </h1>
 
 <div id="header" align="center">
-  <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif" height="175px"/></a>
+  <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/W6dHvprT7oks6BpX5R/giphy.gif" height="175px"/></a>
