@@ -5,5 +5,5 @@
 </h1>
 
 <div id="header" align="center">
-  <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/W6dHvprT7oks6BpX5R/giphy.gif" height="175px"/></a>
+  <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif?cid=790b7611psfbtyx0m9c8mhjzyl59afnbzvd77o2ly7prg9ik&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="175px"/></a>
 
