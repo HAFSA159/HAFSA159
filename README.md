@@ -11,10 +11,22 @@
 - **Tools:** Git, GitHub, Visual Studio Code, WebStorm , Eclipse , Intillij, Postman, MySQL, Figma , Adobe
 
 ## 🌱 I’m currently learning
-- **Java**: Exploring advanced concepts and frameworks.
-- **APIs**: Understanding RESTful services and how to integrate them into applications.
-- **UX/UI Design**: Understanding principles of user experience and interface design.
+- **Java** ☕: Exploring advanced concepts and frameworks.
+- **React** ⚛️: Focusing on building interactive user interfaces.
+- **APIs** 🔌: Understanding RESTful services and how to integrate them into applications.
 
+## 🛠️ Technologies & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D55?style=flat-square&logo=laravel&logoColor=white)
+
+- **Programming Languages:** **HTML**, **CSS**, **JavaScript**, **PHP**, **Java**
+- **Frameworks:** **Laravel**, **Tailwind**, **Bootstrap**
+- **Tools:** **Git**, **GitHub**, **Visual Studio Code**, **Postman**, **MySQL**, **Figma**
+
+## ⚡ Fun Fact
+- I love blending creativity with technology to build unique solutions!
 ## 💼 Projects
  **Bati_cuisine** 
      - https://github.com/HAFSA159/Bati_cuisine
