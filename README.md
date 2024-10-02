@@ -28,6 +28,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005E6C?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Singleton](https://img.shields.io/badge/Singleton-000000?style=flat-square&logo=github&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-005E6C?style=flat-square&logo=mysql&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-000000?style=flat-square&logo=java&logoColor=white)
 
 - **Programming Languages:** **HTML**, **CSS**, **JavaScript**, **PHP**, **Java**
 - **Frameworks:** **Laravel**, **Tailwind**, **Bootstrap**
