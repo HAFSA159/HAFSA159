@@ -33,7 +33,6 @@
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Singleton](https://img.shields.io/badge/Singleton-000000?style=flat-square&logo=github&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-005E6C?style=flat-square&logo=mysql&logoColor=white)
-![Servlets](https://img.shields.io/badge/Servlets-000000?style=flat-square&logo=java&logoColor=white)
 
 - **Programming Languages:** **HTML**, **CSS**, **JavaScript**, **PHP**, **Java**
 - **Frameworks:** **Laravel**, **Tailwind**, **Bootstrap**
