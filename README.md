@@ -17,24 +17,20 @@
 
 ## 💼 Projects
  **Bati_cuisine** 
-     https://github.com/HAFSA159/Bati_cuisine
-    - BatiCuisine est une application Java destinée aux professionnels de la construction et de la rénovation de cuisines. L'application calcule le coût total des travaux en tenant compte des matériaux utilisés         et du coût de la main-d'œuvre, cette dernière étant facturée à l'heure.
+     - https://github.com/HAFSA159/Bati_cuisine
+     - BatiCuisine est une application Java destinée aux professionnels de la construction et de la rénovation de cuisines. L'application calcule le coût total des travaux en tenant compte des matériaux utilisés         et du coût de la main-d'œuvre, cette dernière étant facturée à l'heure.
 
-** Mila Library** 
-    https://github.com/HAFSA159/Mila_Libarry 
+**Mila Library** 
+    - https://github.com/HAFSA159/Mila_Libarry 
     - Une bibliothèque municipale souhaite automatiser ses tâches via un système de gestion informatisé. Ma mission est de développer une application console en Java 8 pour gérer efficacement l'inventaire des          ainsi que les emprunts et retours.
     
 **HazalStore** 
-    https://github.com/HAFSA159/HazalStore 
+    - https://github.com/HAFSA159/HazalStore 
     - Une Application de ECommerce de la vente des produits cosmétiques.
 
 ## 📫 How to reach me
 - Email: hafsaelmoatassim99@gmail.com
 - LinkedIn: www.linkedin.com/in/hafsa-elmoatassim-billah
-
-
-## ⚡ Fun Fact
-- [A fun fact about you or something interesting you want to share]
 
 
 
