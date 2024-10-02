@@ -4,6 +4,10 @@
 - I’m currently learning JAVA.
 - I’m passionate about development and creating user-friendly applications that solve real-world problems.
 - I love coding.
+  
+## 📫 How to reach me
+- Email: hafsaelmoatassim99@gmail.com
+- LinkedIn: www.linkedin.com/in/hafsa-elmoatassim-billah
 
 ## 🛠️ Technologies & Tools
 - **Programming Languages:** HTML, CSS, JavaScript, PHP, Java
@@ -25,7 +29,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005E6C?style=flat-square&logo=mysql&logoColor=white)
 
-
 - **Programming Languages:** **HTML**, **CSS**, **JavaScript**, **PHP**, **Java**
 - **Frameworks:** **Laravel**, **Tailwind**, **Bootstrap**
 - **Tools:** **Git**, **GitHub**, **Visual Studio Code**, **Postman**, **MySQL**, **Figma**
@@ -44,10 +47,6 @@
 **HazalStore** 
     - https://github.com/HAFSA159/HazalStore 
     - Une Application de ECommerce de la vente des produits cosmétiques.
-
-## 📫 How to reach me
-- Email: hafsaelmoatassim99@gmail.com
-- LinkedIn: www.linkedin.com/in/hafsa-elmoatassim-billah
 
 
 
