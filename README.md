@@ -4,13 +4,11 @@
 - I’m currently learning Angular.
 - I’m passionate about development and creating user-friendly applications that solve real-world problems.
 - I love coding.
-  
 ## 📫 How to reach me
 - Email: hafsaelmoatassim99@gmail.com
 - LinkedIn: www.linkedin.com/in/hafsa-elmoatassim-billah
 
 ## 🛠️ Technologies & Tools
-
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
@@ -20,7 +18,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)  
-
 ### Backend & Programming
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
 ![JEE](https://img.shields.io/badge/Java%20EE-007396?style=flat-square&logo=java&logoColor=white) 
@@ -30,7 +27,6 @@
 ![REST API](https://img.shields.io/badge/REST%20API-005E6C?style=flat-square&logo=postman&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-005E6C?style=flat-square&logo=sqlite&logoColor=white) 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)  
-
 ### Databases
 ![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-005E6C?style=flat-square&logo=mysql&logoColor=white) 
@@ -38,14 +34,12 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)  
-
 ### Testing
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) 
 ![Mockito](https://img.shields.io/badge/Mockito-00BFFF?style=flat-square&logo=mockito&logoColor=white) 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) 
 ![TDD](https://img.shields.io/badge/TDD-005E6C?style=flat-square&logo=github&logoColor=white) 
 ![SonarLint](https://img.shields.io/badge/SonarLint-4E9BCD?style=flat-square&logo=sonarcloud&logoColor=white)  
-
 ### Frameworks & Concepts
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) 
 ![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=flat-square&logo=spring&logoColor=white) 
@@ -59,7 +53,6 @@
 ![DTO](https://img.shields.io/badge/DTO-005E6C?style=flat-square&logo=github&logoColor=white) 
 ![SOLID](https://img.shields.io/badge/SOLID-000000?style=flat-square&logo=github&logoColor=white) 
 ![Agile](https://img.shields.io/badge/Agile-005E6C?style=flat-square&logo=agile&logoColor=white)  
-
 ### Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) 
