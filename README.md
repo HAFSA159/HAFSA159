@@ -4,9 +4,6 @@
 - I’m currently learning Angular.
 - I’m passionate about development and creating user-friendly applications that solve real-world problems.
 - I love coding.
-## 📫 How to reach me
-- Email: hafsaelmoatassim99@gmail.com
-- LinkedIn: www.linkedin.com/in/hafsa-elmoatassim-billah
 
 ## 🛠️ Technologies & Tools
 ### Frontend
