@@ -10,7 +10,7 @@
 - LinkedIn: www.linkedin.com/in/hafsa-elmoatassim-billah
 
 ## 🛠️ Technologies & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white)  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
@@ -23,6 +23,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-005E6C?style=flat-square&logo=mysql&logoColor=white)  
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)  
 ![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)  
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)  
@@ -36,7 +38,7 @@
 - **Laravel**, **Tailwind CSS**, **Bootstrap**, **Spring Boot**
 
 ### **Tools**
-- **Git**, **GitHub**, **Visual Studio Code**, **Postman**, **MySQL**, **Figma**, **IntelliJ IDEA**
+- **Git**, **GitHub**, **Visual Studio Code**, **Postman**, **MySQL**, **MariaDB**, **MongoDB**, **Figma**, **IntelliJ IDEA**
 
 
 ## 🌱 I’m currently learning
