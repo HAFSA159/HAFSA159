@@ -1,7 +1,7 @@
 # Hi there, I'm Hafsa ELMOATASSIM BILLAH 👋
 
 ## 👨‍💻 About Me
-- I’m currently learning JAVA.
+- I’m currently learning Angular.
 - I’m passionate about development and creating user-friendly applications that solve real-world problems.
 - I love coding.
   
